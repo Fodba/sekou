@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Pages non indexables gérées par balise meta robots (ex. mentions légales)
+
+Sitemap: https://maitresekou.pro/sitemap.xml
